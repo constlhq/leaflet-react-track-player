@@ -15,12 +15,12 @@
   },
   "dependencies": {
     "@skyeer/react-leaflet-custom-control": "^0.0.6",
-    "leaflet": "^1.3.4",
-    "moment": "^2.22.2",
+    "leaflet": "^1.6.0",
+    "moment": "^2.27.0",
     "prop-types": "^15.6.2",
-    "react-leaflet": "^2.0.1",
-    "jest": "20.0.4",
-    "jest-cli": "20.0.4"
+    "react-leaflet": "^2.7.0",
+    "jest": "24.9.0",
+    "jest-cli": "24.9.0"
   },
   "scripts": {
     "start": "node scripts/start.js",
